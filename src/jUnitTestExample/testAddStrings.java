@@ -12,6 +12,5 @@ public class testAddStrings {
 		String result = jUnitInt.addStrings("yash", "raj");
 		assertEquals("yashraj", result);
 	}
-
 	
 }

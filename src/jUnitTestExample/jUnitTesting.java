@@ -9,5 +9,4 @@ public class jUnitTesting {
 		return s1+s2;
 	} 
 	
-	
 }
