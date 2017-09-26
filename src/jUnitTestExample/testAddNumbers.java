@@ -12,5 +12,6 @@ public class testAddNumbers {
 		int result = jUnitInt.addNumbers(50, 75);
 		assertEquals(125, result);
 	}
+	
 
 }
